@@ -1,4 +1,33 @@
-# SWYNEX Data Cleaning & Preparation
+---
+
+Tools & Technologies
+
+- Python
+- Pandas
+- Statsmodels
+- Microsoft Excel
+- GitHub
+
+Project Files
+
+- "clean_data.py" – Python data cleaning script
+- "co2_raw.csv" – Raw CO₂ dataset
+- "co2_cleaned.csv" – Cleaned dataset
+- "co2_cleaned.xlsx" – Cleaned Excel file
+- "co2_cleaning_result.png" – Data cleaning visualization
+- "DATA_QUALITY_REPORT.md" – Data quality report
+
+Project Objectives
+
+- Handle missing values
+- Remove duplicate records
+- Correct data types
+- Prepare clean and structured datasets
+- Generate data quality reports and visualizations
+
+Author
+
+Prashant Kumar# SWYNEX Data Cleaning & Preparation
 
 ## Task 1
 Clean and prepare a public dataset for analysis using Python/Pandas.
